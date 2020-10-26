@@ -4,6 +4,7 @@
   <artifactId>libconfini-wrapper</artifactId>
   <version>0.1.0</version>
   <name>libconfini Java Wrapper</name>
+  <description>Note: v0.1.0 is Linux-only</description>
   <build>
     <resources>
       <resource>
